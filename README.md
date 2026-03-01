@@ -7,3 +7,14 @@ npx playwright install
 
 # Запуск теста
 npx playwright test
+
+# Ожидаемый результат
+Тест успешно выполняется в:
+
+Chromium
+
+Firefox
+
+И проходит проверку заголовка страницы:
+✓  [Chromium] › title.spec.js
+✓  [Firefox] › title.spec.js
